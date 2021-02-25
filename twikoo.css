@@ -1,40 +1,18 @@
-/*twikoo页脚影藏*/
-.tk-footer {
-    display: none;
-}
-/*twikoo站点名称标红*/
-.tk-main .tk-nick.tk-nick-link {
-    color: #ff786e !important;
-}
-/*twikooUA*/
-.tk-extra[data-v-d82ce9a0] {
-    padding: .2em .5em;
-    border-radius: .2em;
-    background: #ededed;
-    margin-top: 0.5rem;
-    margin-right: 0.75rem;
-    display: flex;
-    align-items: center;
-}
-.tk-submit[data-v-619b4c52] {
-    display: flex;
-    flex-direction: column;
+.tk-submit {
     box-shadow: 2px 2px 5px #9a9a9a;
     border-radius: 8px;
     padding: 10px 10px 0;
     margin-bottom: 20px;
 }
-.tk-comment[data-v-d82ce9a0] {
+.tk-comment {
     box-shadow: 2px 2px 5px #9a9a9a;
     border-radius: 8px;
     padding: 15px;
-    margin-top: 1rem;
 }
-.tk-comment[data-v-d82ce9a0] {
-    margin-top: 1rem;
-    display: flex;
-    flex-direction: row;
-    word-break: break-all;
+.tk-extra {
+    padding: .2em .5em;
+    border-radius: .2em;
+    background: #ededed;
 }
 #twikoo .tk-comment .tk-replies .tk-comment {
     box-shadow: none;
