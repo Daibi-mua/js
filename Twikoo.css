@@ -1,7 +1,1 @@
-/* Twikoo评论框高度 */
-.el-textarea__inner {
-    /* min-height: 75px; */
-    /* height: 75px; */
-    min-height: 210px !important;
-  }
-  
+.el-textarea__inner{min-height:210px!important}
