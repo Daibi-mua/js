@@ -78,8 +78,6 @@
   background-image: url(https://cdn.jsdelivr.net/gh/Daibi-mua/cdn2@main/qqtouxiang.webp);
   background-size: 2rem;
 }
-
-/* 加载更多 */
 .load-btn.button-load{
   background: var(--heo-card-btn-bg);
   color: var(--heo-fontcolor);
