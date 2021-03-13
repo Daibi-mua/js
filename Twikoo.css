@@ -17,6 +17,7 @@
   
   /* 每条动态 */
   #bber > section > ul > div > li > div{
+    list-style-type:none;
     display: flex;
     flex-direction: initial;
     flex-wrap: wrap;
