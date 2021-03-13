@@ -45,6 +45,7 @@
   
   /* 内容 */
   #bber > section > ul > div > li > div .datacont{
+    list-style-type:none;
     order: 0;
     font-size: 1rem;
     font-weight: bold;
